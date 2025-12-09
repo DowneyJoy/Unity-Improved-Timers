@@ -1,0 +1,17 @@
+{
+  "name": "com.downeyjoy.improvedtimers",
+  "version": "1.0.0",
+  "displayName": "Improved Timers",
+  "description": "Improved Timer System for Unity that hooks into the Unity Player Loop.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Downey"
+  },
+  "samples": [
+    {
+      "displayName": "sample1",
+      "description": "This is sample1",
+      "path": "Samples~/Sample1"
+    }
+  ]
+}
