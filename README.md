@@ -62,6 +62,6 @@ the Unity Package Manager using this URL:
 Alternatively, you can add the following line to your project's `manifest.json` file.
 
 ```
-"com.DowneyJoy.improvedtimers": "https://github.com/DowneyJoy/Unity-Improved-Timers.git"
+"com.downeyjoy.improvedtimers": "https://github.com/DowneyJoy/Unity-Improved-Timers.git"
 ```
 
